@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-import plotly as plt
+#import plotly as plt
 import plotly.express as px
-import seaborn as sns
+
 
 st.set_page_config(page_title="Employee Dashboard", page_icon=":bar_chart:", layout="wide")
 
